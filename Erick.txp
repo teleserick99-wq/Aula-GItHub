@@ -6,3 +6,9 @@ Hoje será a primeira aula onde conectaremos o repositório online
 (que está no GitHub) com o repositório de minha máquina.
 
 Edição realizada pelo GitHub
+
+Comandos aprendidos na aula de hoje:
+git:push -> serve para enviar as arquivos na máquina local 
+para o repositório online no GitHub
+git:pull -> serve para atualizar o repositório local com 
+os dados de repositório online no GitHub
