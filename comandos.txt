@@ -1,0 +1,33 @@
+Coloque a descrição de cada um dos seguintes comandos e faça uma atulozação no GitHub:
+
+git status -> Mostra o estado atual do repositório.
+
+git add -> Adiciona todos os arquivos modificados.
+
+git commit -m "Mensagem" -> Salva as alterações com uma mensagem descritiva.
+
+git log ->Mostra histótico de commits.
+
+git pull -> Atualiza o repositório localcom os dados do repositório online no GitHub.
+
+git push ->Envia os arquivos na máquina local para o repositório online no GitHub.
+
+git branch -> Lista de branches existentes.
+
+git branch nome -da-branch-> Cria uma nova branch.
+
+git checkout -> troca de branch.
+
+git init ->Inicia o rastreamento de um novo repositório.
+
+Depois de colocar a descrição de cada uns deos comandos coloque a ordem em que devem ser exucutados para salvar as alterações no GitHub.
+1. git  init
+2. git status
+3. git add
+4. git commit -m "Mensagem"
+5. git log
+6. git branch nome-da-branch
+7. git branch
+8. git checkout
+9. git push
+10. git pull
